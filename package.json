@@ -1,0 +1,15 @@
+{
+  "name": "us-substantial-presence-test-via-i94",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "pdfreader": "^1.0.4"
+  }
+}
